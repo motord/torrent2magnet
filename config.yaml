@@ -1,0 +1,7 @@
+libraries:
+- name: bottle
+  version: "0.9.6"
+
+handlers:
+- url: /static
+  static_dir: static
